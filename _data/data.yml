@@ -48,10 +48,11 @@ sidebar:
 
 career-profile:
   title: Perfil
-  summary: Desenvolvedor Full Stack com 4 anos de experiência na área de
-    programação web, utilizando de ferramentas como o .NET, React, Docker
-    e banco de dados relacionais como o PostgreSQL. Atualmente atuando
-    como Tech Leader no Grupo Voalle.
+  summary: Desenvolvedor Full Stack com experiência na área de
+    programação web, utilizando de ferramentas como .NET, React, Docker
+    e bancos de dados relacionais como o PostgreSQL.
+    - Cursando o último semestre do curso de Sistemas de Informação na SETREM.
+    - Atuando como Tech Leader no Grupo Voalle.
 education:
   - degree: Graduação em Sistemas de Informação
     university: Sociedade Educacional Três de Maio - SETREM
@@ -108,17 +109,19 @@ skills:
     - name: Javascript & jQuery
       level: 98%
 
-    - name: React
-      level: 85%
-
     - name: HTML5 & CSS
       level: 95%
+
+    - name: React
+      level: 85%
 
     - name: PostgreSQL
       level: 85%
 
     - name: Java
+      level: 65%
+
+    - name: Kubernetes
       level: 60%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer:
