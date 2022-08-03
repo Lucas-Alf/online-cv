@@ -49,9 +49,7 @@ sidebar:
 career-profile:
   title: Perfil
   summary: |
-    Desenvolvedor Full Stack com experiência na área de programação web, utilizando de ferramentas como .NET, React, Docker e bancos de dados relacionais como o PostgreSQL.
-    - Cursando o último semestre do curso de Sistemas de Informação na SETREM.
-    - Atuando como Tech Leader no Grupo Voalle.
+    Cursando o último semestre da graduação em Sistemas de Informação na Faculdade Três de Maio - SETREM. Trabalho a cerca de 4 anos com o desenvolvimento de software, utilizando de ferramentas como React, VueJS e Svelte, além de tecnologias de backend como o .NET Core para construção de APIs RESTful.
 education:
   - degree: Graduação em Sistemas de Informação
     university: Sociedade Educacional Três de Maio - SETREM
